@@ -21,7 +21,7 @@ NeuraViaResearch/
 
 - **Synthetic Data Generation**: Creates balanced datasets with equal representation of digits 0-9
 - **Seq2Seq Architecture**: Encoder-decoder LSTM model with attention-like mechanisms
-- **Comprehensive Training**: 5-epoch training with validation monitoring
+- **Comprehensive Training**: 50-epoch training with validation monitoring
 - **Model Export**: Automatic model saving to `models/` directory
 - **Interactive Testing**: Real-time testing interface
 - **Rich Visualizations**: Training curves, accuracy analysis, confusion matrices
