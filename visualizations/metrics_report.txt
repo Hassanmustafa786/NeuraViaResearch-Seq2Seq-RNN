@@ -1,0 +1,26 @@
+============================================================
+SEQ2SEQ RNN PERFORMANCE REPORT
+============================================================
+
+TRAINING METRICS:
+--------------------
+Number of epochs: 50
+Final training loss: 0.005407
+Final validation loss: 0.129527
+Final validation accuracy: 0.825000
+Best validation accuracy: 0.830000
+
+TEST METRICS:
+---------------
+Test accuracy: 0.920000
+Correct predictions: 46
+Total predictions: 50
+
+PERFORMANCE BY SEQUENCE LENGTH:
+-----------------------------------
+Length 1: 1.0000 (10/10)
+Length 2: 1.0000 (15/15)
+Length 3: 1.0000 (15/15)
+Length 4: 0.6000 (6/10)
+
+============================================================
