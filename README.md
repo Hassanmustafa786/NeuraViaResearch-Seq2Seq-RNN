@@ -8,7 +8,7 @@ This project implements a complete sequence-to-sequence RNN pipeline that conver
 NeuraViaResearch/
 ├── data_utils.py      # Data generation and preprocessing utilities
 ├── model.py           # Seq2Seq RNN model architecture
-├── train.py          # Training script (5 epochs)
+├── train.py          # Training script (50 epochs)
 ├── test.py           # Model testing and evaluation
 ├── visualization.py  # Performance metrics and visualizations
 ├── requirements.txt  # Python dependencies
