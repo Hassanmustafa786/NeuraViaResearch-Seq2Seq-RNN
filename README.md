@@ -88,7 +88,7 @@ Model parameters: 85,389
 Training samples: 800
 Validation samples: 200
 
-Epoch 1/5
+Epoch 1/50
 Train Loss: 2.1543 | Val Loss: 1.8765 | Val Acc: 0.2150
   Input: '42' -> True: 'four two' | Pred: 'four two'
   Input: '8' -> True: 'eight' | Pred: 'eight'
